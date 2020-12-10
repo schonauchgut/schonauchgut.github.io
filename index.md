@@ -1,6 +1,7 @@
 **Resume**
 
-Constantin Hoferer, German IP Lawyer
+Constantin Hoferer, LL.M. (London) - Fully Qualified Lawyer
+Constantin is a fully qualified lawyer and expert in Intellectual Property Law. He is currently based in Germany.
 
 
 ---
