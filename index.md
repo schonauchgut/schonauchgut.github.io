@@ -3,6 +3,8 @@
 Constantin Hoferer, LL.M. (London) - Fully Qualified Lawyer  
 Constantin is a fully qualified lawyer and expert in Intellectual Property Law. He is currently based in Germany.
 
+This page is currently used to try out GitHub Pages and experiment to get a better understanding of code collaboration via GitHub and underlying principles.
+
 
 ---
 <p style="font-size:6px"><i>Privacy:</i>  <br>
