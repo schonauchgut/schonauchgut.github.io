@@ -1,8 +1,25 @@
-**//sth a'bout me**
+**Profile**
 
 Constantin Hoferer, LL.M. (London) - Fully Qualified Lawyer  
 Constantin is a fully qualified lawyer and expert in Intellectual Property Law. He is currently based in Germany.
+<hr>
 
+***Professional Experience***
+<ul>
+<li><i>2019 - today</i> Legal Counsel for Open Source Software - Daimler AG</li>
+<li><i>2016 - 2018</i> Junior Legal Counsel for Global Innovation - adidas AG</li>
+</ul>
+
+***Training Contract/Legal Clerkship***
+<ul>
+<li><i>2019</i> Permanent Mission of the Federal Republic of Germany to the United Nations in New York</li>
+<li><i>2018</i> THEOPARK Rechtsanwälte und Steuerberater Partnerschaft mbB, lawyers and tax advisors (corporate law)</li>
+<li><i>2018</i> Luftamt Nordbayern, civil aviation authority </li>
+<li><i>2017</i> Staatsanwaltschaft Nürnberg-Fürth, public prosecutors, chamber of commercial crime</li>
+<li><i>2017</i> Landgericht Nürnberg-Fürth, civil law chamber at the district court of Nuremberg-Fuerth</li>
+</ul>
+
+<hr>
 This page is currently used to try out GitHub Pages and experiment to get a better understanding of code collaboration via GitHub and underlying principles.
 
 
