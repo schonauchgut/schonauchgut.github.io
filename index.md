@@ -21,7 +21,7 @@ Constantin is a fully qualified lawyer and expert in Intellectual Property Law. 
 
 ***Qualification/Academic Record***
 <ul>
-<li><i>2020</i> MBA Essentials at London School of Economics (online certified)</li>
+<li><i>2020</i> MBA Essentials at London School of Economics and Political Science (online certified)</li>
 <li><i>2019</i> Fully Qualified German Lawyer, second state examination</li>
 <li><i>2016</i> LL.M. in Intellectual Property law at Queen Mary University of London</li>
 <li><i>2015</i> German Diploma Lawyer at Freie Universität Berlin, first state examination</li>
