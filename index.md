@@ -1,14 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-body {background-color: powderblue;}
-td   {border: 0;}
-p    {color: red;}
-</style>
-</head>
-<body>
-
 **Profile**
 
 Constantin Hoferer, LL.M. (London) - Fully Qualified Lawyer  
@@ -18,8 +7,8 @@ Constantin is a fully qualified lawyer and expert in Intellectual Property Law. 
 ***Professional Experience***
 
 <table align="left" border="0">
-  <tr><td>&#8226;</td><td><i>2019 - today</i></td><td>Legal Counsel for Open Source Software</td><td>Daimler AG</td></tr>
-  <tr><td>&#8226;</td><td><i>2016 - 2018</i></td><td>Junior Legal Counsel for Global Innovation</td><td>adidas AG</td></tr>
+  <tr border="0"><td>&#8226;</td><td><i>2019 - today</i></td><td>Legal Counsel for Open Source Software</td><td>Daimler AG</td></tr>
+  <tr border="0"><td>&#8226;</td><td><i>2016 - 2018</i></td><td>Junior Legal Counsel for Global Innovation</td><td>adidas AG</td></tr>
 </table>
 
 <br><br><br><br>
@@ -49,5 +38,4 @@ This page is currently used to try out GitHub Pages and experiment to get a bett
 ---
 <p style="font-size:8px"><i>Privacy:</i>  <br>
 The creator of this schonauchgut GitHub Page, does not collect any of your data himself. GitHub Inc. does however collect data when accessing this page and states: _Please note that GitHub may collect User Personal Information from visitors to your GitHub Pages website, including logs of visitor IP addresses, to comply with legal obligations, and to maintain the security and integrity of the Website and the Service. [GitHub Privacy statement for further information.](https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-privacy-statement)_</p>
-</body>
-</html>
+
