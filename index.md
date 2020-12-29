@@ -1,23 +1,26 @@
-**Profile**
+---
+title: Constantin Hoferer, LL.M. (London)
+---
+
+## Profile
 
 <table align="left">
-  <tr><td>Constantin Hoferer, LL.M. (London) - Fully Qualified Lawyer</td><td rowspan="2"><img src="assets/profile.jpg" alt="Profile" /></td></tr
-    <tr><td>Constantin is a fully qualified lawyer and expert in Intellectual Property Law. 
-    I am currently based in Germany.</td></tr>
+  <tr>
+    <td>Constantin Hoferer, LL.M. (London) - Fully Qualified Lawyer</td><td rowspan="2"><img src="assets/profile.jpg" alt="Profile" /></td>
+  </tr>
+  <tr>
+    <td>Constantin is a fully qualified lawyer and expert in Intellectual Property Law. I am currently based in Germany.</td>
+  </tr>
 </table>
 
-<br><br><br><br>
-<hr>
-
-***Professional Experience***
+### Professional Experience
 
 <table align="left">
   <tr><td>&#8226;</td><td><i>2019 - today</i></td><td>Legal Counsel for Open Source Software</td><td>Daimler AG</td></tr>
   <tr><td>&#8226;</td><td><i>2016 - 2018</i></td><td>Junior Legal Counsel for Global Innovation</td><td>adidas AG</td></tr>
 </table>
 
-<br><br><br><br>
-***Training Contract/Legal Clerkship***
+### Training Contract/Legal Clerkship
 
 <table align="left">
   <tr><td>&#8226;</td><td><i>2019</i></td><td>Permanent Mission of the Federal Republic of Germany to the United Nations in New York</td></tr>
@@ -27,8 +30,7 @@
   <tr><td>&#8226;</td><td><i>2017</i></td><td>Landgericht Nürnberg-Fürth, civil law chamber at the district court of Nuremberg-Fuerth</td></tr>  
 </table>
 
-<br><br><br><br>
-***Qualification/Academic Record***
+### Qualification/Academic Record
 
 <table align="left">
   <tr><td>&#8226;</td><td><i>2020</i></td><td>MBA Essentials at London School of Economics and Political Science (online certified)</td></tr>
