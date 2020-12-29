@@ -2,6 +2,7 @@
 
 Constantin Hoferer, LL.M. (London) - Fully Qualified Lawyer  
 Constantin is a fully qualified lawyer and expert in Intellectual Property Law. 
+
 I am currently based in Germany.
 <hr>
 
