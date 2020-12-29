@@ -13,6 +13,8 @@ Constantin is a fully qualified lawyer and expert in Intellectual Property Law. 
 
 <p>
   </p>
+  <p>
+  </p>
 ***Training Contract/Legal Clerkship***
 
 <table align="left" border="0">
@@ -24,6 +26,8 @@ Constantin is a fully qualified lawyer and expert in Intellectual Property Law. 
 </table>
 
 <p>
+  </p>
+  <p>
   </p>
 ***Qualification/Academic Record***
 <ul>
