@@ -13,7 +13,7 @@ title: Constantin Hoferer, LL.M. (London)
   </tr>
 </table>
 
-<h3 margin="10">Professional Experience</h3>
+<h3 style="margin-top:0.83em">Professional Experience</h3>
 
 <table align="left">
   <tr><td>&#8226;</td><td><i>2019 - today</i></td><td>Legal Counsel for Open Source Software</td><td>Daimler AG</td></tr>
