@@ -1,7 +1,7 @@
 **Profile**
 
 <table align="left">
-  <tr><td>Constantin Hoferer, LL.M. (London) - Fully Qualified Lawyer</td><td rowspan="2">![Branching](https://schonauchgut.github.io/assets/profile.jpg)</td></tr
+  <tr><td>Constantin Hoferer, LL.M. (London) - Fully Qualified Lawyer</td><td rowspan="2"><img src="assets/profile.jpg" alt="Profile" /></td></tr
     <tr><td>Constantin is a fully qualified lawyer and expert in Intellectual Property Law. 
     I am currently based in Germany.</td></tr>
 </table>
