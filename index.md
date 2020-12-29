@@ -40,6 +40,7 @@
 
 <br><br><br><br>
 <hr>
+
 This page is currently used to try out GitHub Pages and experiment to get a better understanding of code collaboration via GitHub and underlying principles.
 
 
