@@ -13,14 +13,14 @@ title: Constantin Hoferer, LL.M. (London)
   </tr>
 </table>
 
-<h3 style="margin-top:1em">Professional Experience</h3>
+<h3 style="margin-top:10em">Professional Experience</h3>
 
 <table align="left">
   <tr><td>&#8226;</td><td><i>2019 - today</i></td><td>Legal Counsel for Open Source Software</td><td>Daimler AG</td></tr>
   <tr><td>&#8226;</td><td><i>2016 - 2018</i></td><td>Junior Legal Counsel for Global Innovation</td><td>adidas AG</td></tr>
 </table>
 
-<h3 margin="10">Training Contract/Legal Clerkship</h3>
+<h3 style="margin-top:10em">Training Contract/Legal Clerkship</h3>
 
 <table align="left">
   <tr><td>&#8226;</td><td><i>2019</i></td><td>Permanent Mission of the Federal Republic of Germany to the United Nations in New York</td></tr>
@@ -30,7 +30,7 @@ title: Constantin Hoferer, LL.M. (London)
   <tr><td>&#8226;</td><td><i>2017</i></td><td>Landgericht Nürnberg-Fürth, civil law chamber at the district court of Nuremberg-Fuerth</td></tr>  
 </table>
 
-<h3 margin="10">Qualification/Academic Record</h3>
+<h3 style="margin-top:10em">Qualification/Academic Record</h3>
 
 <table align="left">
   <tr><td>&#8226;</td><td><i>2020</i></td><td>MBA Essentials at London School of Economics and Political Science (online certified)</td></tr>
