@@ -1,14 +1,14 @@
----
-title: Constantin Hoferer, LL.M. (London)
----
-
-## Profile
-
 <style>
 h3 {
   margin-top: 10px;
 }
 </style>
+
+---
+title: Constantin Hoferer, LL.M. (London)
+---
+
+## Profile
 
 <table align="left">
   <tr>
