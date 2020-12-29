@@ -4,6 +4,12 @@ title: Constantin Hoferer, LL.M. (London)
 
 ## Profile
 
+<style>
+h3 {
+  margin-top: 10px;
+}
+</style>
+
 <table align="left">
   <tr>
     <td>Constantin Hoferer, LL.M. (London) - Fully Qualified Lawyer</td><td rowspan="2"><img src="assets/profile.jpg" alt="Profile" /></td>
