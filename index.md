@@ -11,10 +11,6 @@ Constantin is a fully qualified lawyer and expert in Intellectual Property Law. 
   <tr><td>&#8226;</td><td><i>2016 - 2018</i></td><td>Junior Legal Counsel for Global Innovation</td><td>adidas AG</td></tr>
 </table>
 
-&#8226; | <i>2019 - today</i> | Legal Counsel for Open Source Software | Daimler AG
---------|---------------------|----------------------------------------|-----------
-&#8226; | <i>2016 - 2018</i> | Junior Legal Counsel for Global Innovation | adidas AG
-
 ***Training Contract/Legal Clerkship***
 <ul>
 <li><i>2019</i> Permanent Mission of the Federal Republic of Germany to the United Nations in New York</li>
