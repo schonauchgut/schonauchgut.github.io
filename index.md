@@ -30,12 +30,13 @@
 <br><br><br><br>
 ***Qualification/Academic Record***
 
-<ul>
-<li><i>2020</i> MBA Essentials at London School of Economics and Political Science (online certified)</li>
-<li><i>2019</i> Fully Qualified German Lawyer, second state examination</li>
-<li><i>2016</i> LL.M. in Intellectual Property law at Queen Mary University of London</li>
-<li><i>2015</i> German Diploma Lawyer at Freie Universität Berlin, first state examination</li>
-</ul>
+<table align="left">
+  <tr><td>&#8226;</td><td><i>2020</i></td><td>MBA Essentials at London School of Economics and Political Science (online certified)</td></tr>
+  <tr><td>&#8226;</td><td><i>2019</i></td><td>Fully Qualified German Lawyer, second state examination</td></tr>
+  <tr><td>&#8226;</td><td><i>2016</i></td><td>LL.M. in Intellectual Property law at Queen Mary University of London</td></tr>
+  <tr><td>&#8226;</td><td><i>2015</i></td><td>German Diploma Lawyer at Freie Universität Berlin, first state examination</td></tr>
+</table>
+
 
 <hr>
 This page is currently used to try out GitHub Pages and experiment to get a better understanding of code collaboration via GitHub and underlying principles.
