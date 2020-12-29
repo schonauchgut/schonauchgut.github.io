@@ -37,6 +37,7 @@
   <tr><td>&#8226;</td><td><i>2015</i></td><td>German Diploma Lawyer at Freie Universität Berlin, first state examination</td></tr>
 </table>
 
+
 <br><br><br><br>
 <hr>
 This page is currently used to try out GitHub Pages and experiment to get a better understanding of code collaboration via GitHub and underlying principles.
