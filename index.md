@@ -10,16 +10,18 @@ Constantin is a fully qualified lawyer and expert in Intellectual Property Law. 
   <tr><td>&#8226;</td><td><i>2019 - today</i></td><td>Legal Counsel for Open Source Software</td><td>Daimler AG</td></tr>
   <tr><td>&#8226;</td><td><i>2016 - 2018</i></td><td>Junior Legal Counsel for Global Innovation</td><td>adidas AG</td></tr>
 </table>
-
+<br><br>
 ***Training Contract/Legal Clerkship***
-<ul>
-<li><i>2019</i> Permanent Mission of the Federal Republic of Germany to the United Nations in New York</li>
-<li><i>2018</i> THEOPARK Rechtsanwälte und Steuerberater Partnerschaft mbB, lawyers and tax advisors (corporate law)</li>
-<li><i>2018</i> Luftamt Nordbayern, civil aviation authority </li>
-<li><i>2017</i> Staatsanwaltschaft Nürnberg-Fürth, public prosecutors, chamber of commercial crime</li>
-<li><i>2017</i> Landgericht Nürnberg-Fürth, civil law chamber at the district court of Nuremberg-Fuerth</li>
-</ul>
 
+<table align="left" border="0">
+  <tr><td>&#8226;</td><td><i>2019</i></td><td>Permanent Mission of the Federal Republic of Germany to the United Nations in New York</td></tr>
+  <tr><td>&#8226;</td><td><i>2018</i></td><td>THEOPARK Rechtsanwälte und Steuerberater Partnerschaft mbB, lawyers and tax advisors (corporate law)</td></tr>
+  <tr><td>&#8226;</td><td><i>2018</i></td><td>Luftamt Nordbayern, civil aviation authority</td></tr>
+  <tr><td>&#8226;</td><td><i>2017</i></td><td>Staatsanwaltschaft Nürnberg-Fürth, public prosecutors, chamber of commercial crime</td></tr>
+  <tr><td>&#8226;</td><td><i>2017</i></td><td>Landgericht Nürnberg-Fürth, civil law chamber at the district court of Nuremberg-Fuerth</td></tr>  
+</table>
+
+<br><br>
 ***Qualification/Academic Record***
 <ul>
 <li><i>2020</i> MBA Essentials at London School of Economics and Political Science (online certified)</li>
