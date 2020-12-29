@@ -13,12 +13,14 @@ title: Constantin Hoferer, LL.M. (London)
   </tr>
 </table>
 
+
 <h3 style="margin-top:10em">Professional Experience</h3>
 
 <table align="left">
   <tr><td>&#8226;</td><td><i>2019 - today</i></td><td>Legal Counsel for Open Source Software</td><td>Daimler AG</td></tr>
   <tr><td>&#8226;</td><td><i>2016 - 2018</i></td><td>Junior Legal Counsel for Global Innovation</td><td>adidas AG</td></tr>
 </table>
+
 
 <h3 style="margin-top:10em">Training Contract/Legal Clerkship</h3>
 
@@ -29,6 +31,7 @@ title: Constantin Hoferer, LL.M. (London)
   <tr><td>&#8226;</td><td><i>2017</i></td><td>Staatsanwaltschaft Nürnberg-Fürth, public prosecutors, chamber of commercial crime</td></tr>
   <tr><td>&#8226;</td><td><i>2017</i></td><td>Landgericht Nürnberg-Fürth, civil law chamber at the district court of Nuremberg-Fuerth</td></tr>  
 </table>
+
 
 <h3 style="margin-top:10em">Qualification/Academic Record</h3>
 
