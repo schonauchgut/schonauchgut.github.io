@@ -7,8 +7,8 @@ Constantin is a fully qualified lawyer and expert in Intellectual Property Law. 
 ***Professional Experience***
 
 <table align="left" border="0">
-  <tr border="0"><td>&#8226;</td><td><i>2019 - today</i></td><td>Legal Counsel for Open Source Software</td><td>Daimler AG</td></tr>
-  <tr border="0"><td>&#8226;</td><td><i>2016 - 2018</i></td><td>Junior Legal Counsel for Global Innovation</td><td>adidas AG</td></tr>
+  <tr border="0"><td border="0">&#8226;</td><td border="0"><i>2019 - today</i></td><td border="0">Legal Counsel for Open Source Software</td><td border="0">Daimler AG</td></tr>
+  <tr border="0"><td border="0">&#8226;</td><td border="0"><i>2016 - 2018</i></td><td border="0">Junior Legal Counsel for Global Innovation</td><td border="0">adidas AG</td></tr>
 </table>
 
 <br><br><br><br>
