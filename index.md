@@ -1,6 +1,6 @@
 **Profile**
 <table align="left" border="0">
-  <tr><td>Constantin Hoferer, LL.M. (London) - Fully Qualified Lawyer</td><td rowspan="2"><img src="assets/profile.jpg" alt="Profile" width="500" height="600"></td></tr
+  <tr><td>Constantin Hoferer, LL.M. (London) - Fully Qualified Lawyer</td><td rowspan="2"><img src="assets/profile.jpg" alt="Profile" width="10%" height="10%"></td></tr
     <tr><td>Constantin is a fully qualified lawyer and expert in Intellectual Property Law. 
     I am currently based in Germany.</td></tr>
 </table>
