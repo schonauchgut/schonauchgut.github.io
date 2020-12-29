@@ -4,6 +4,7 @@
     <tr><td>Constantin is a fully qualified lawyer and expert in Intellectual Property Law. 
     I am currently based in Germany.</td></tr>
 </table>
+
 <br><br><br><br>
 <hr>
 
