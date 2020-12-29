@@ -12,16 +12,14 @@ title: Constantin Hoferer, LL.M. (London)
     <td>Constantin is a fully qualified lawyer and expert in Intellectual Property Law. I am currently based in Germany.</td>
   </tr>
 </table>
-<p>
-  </p>
+
 ### Professional Experience
 
 <table align="left">
   <tr><td>&#8226;</td><td><i>2019 - today</i></td><td>Legal Counsel for Open Source Software</td><td>Daimler AG</td></tr>
   <tr><td>&#8226;</td><td><i>2016 - 2018</i></td><td>Junior Legal Counsel for Global Innovation</td><td>adidas AG</td></tr>
 </table>
-<p>
-  </p>
+
 ### Training Contract/Legal Clerkship
 
 <table align="left">
@@ -31,8 +29,7 @@ title: Constantin Hoferer, LL.M. (London)
   <tr><td>&#8226;</td><td><i>2017</i></td><td>Staatsanwaltschaft Nürnberg-Fürth, public prosecutors, chamber of commercial crime</td></tr>
   <tr><td>&#8226;</td><td><i>2017</i></td><td>Landgericht Nürnberg-Fürth, civil law chamber at the district court of Nuremberg-Fuerth</td></tr>  
 </table>
-<p>
-  </p>
+
 ### Qualification/Academic Record
 
 <table align="left">
