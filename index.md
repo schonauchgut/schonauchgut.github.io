@@ -24,7 +24,7 @@ title: Constantin Hoferer, LL.M. (London)
   </tr>
 </table>
 
-### Training Contract/Legal Clerkship
+### Training Contract & Legal Clerkship
 
 <table align="left">
   <tr>
@@ -44,7 +44,7 @@ title: Constantin Hoferer, LL.M. (London)
   </tr>  
 </table>
 
-### Qualification/Academic Record
+### Qualification & Academic Record
 
 <table align="left">
   <tr>
@@ -64,7 +64,7 @@ title: Constantin Hoferer, LL.M. (London)
 
 <hr>
 
-This page is currently used to try out GitHub Pages and experiment to get a better understanding of code collaboration via GitHub and underlying principles.
+This page is currently used to explore GitHub Pages and experiment to get a better understanding of code collaboration via GitHub and underlying principles.
 
 
 ---
