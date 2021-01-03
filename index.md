@@ -74,5 +74,5 @@ This page is currently used to try out GitHub Pages and experiment to get a bett
 
 
 ---
-<p style="font-size:8px"><i>Privacy:</i>  <br>
-The creator of this schonauchgut GitHub Page, does not collect any of your data himself. GitHub Inc. does however collect data when accessing this page and states: _Please note that GitHub may collect User Personal Information from visitors to your GitHub Pages website, including logs of visitor IP addresses, to comply with legal obligations, and to maintain the security and integrity of the Website and the Service. <a href="https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-privacy-statement"> GitHub Privacy statement for further information.</a>_ </p>
+<p style="font-size:8px"><i>Privacy:</i> <br>
+The creator of this schonauchgut GitHub Page, does not collect any of your data himself. GitHub Inc. does however collect data when accessing this page and states: <i>Please note that GitHub may collect User Personal Information from visitors to your GitHub Pages website, including logs of visitor IP addresses, to comply with legal obligations, and to maintain the security and integrity of the Website and the Service.</i> <a href="https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-privacy-statement"> GitHub Privacy statement for further information.</a></p>
