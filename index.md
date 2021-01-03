@@ -14,7 +14,8 @@ title: Constantin Hoferer, LL.M. (London)
 </table>
 
 
-<h3 style="margin-top:10em">Professional Experience</h3>
+### Professional Experience
+
 
 <table align="left">
   <tr><td>&#8226;</td><td><i>2019 - today</i></td><td>Legal Counsel for Open Source Software</td><td>Daimler AG</td></tr>
@@ -22,7 +23,8 @@ title: Constantin Hoferer, LL.M. (London)
 </table>
 
 
-<h3 style="margin-top:10em">Training Contract/Legal Clerkship</h3>
+### Training Contract/Legal Clerkship
+
 
 <table align="left">
   <tr><td>&#8226;</td><td><i>2019</i></td><td>Permanent Mission of the Federal Republic of Germany to the United Nations in New York</td></tr>
@@ -33,7 +35,8 @@ title: Constantin Hoferer, LL.M. (London)
 </table>
 
 
-<h3 style="margin-top:10em">Qualification/Academic Record</h3>
+### Qualification/Academic Record
+
 
 <table align="left">
   <tr><td>&#8226;</td><td><i>2020</i></td><td>MBA Essentials at London School of Economics and Political Science (online certified)</td></tr>
